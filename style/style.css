@@ -1,12 +1,21 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  background-color: #4AA3DF;
+}
+.header-text {
+  font-size: 30px;
+  color: #fff;
+}
 .input-group {
   margin: 20px 0px;
 }
-
 td, th {
   vertical-align: middle !important;
   text-align: center !important;
 }
-
 td:first-of-type {
   height: 200px;
   width: 250px;
