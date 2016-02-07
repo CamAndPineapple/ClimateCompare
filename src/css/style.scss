@@ -1,9 +1,14 @@
+
+/* COLORS */
+
+$blue: #4AA3DF;
+
 .header {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 70px;
-  background-color: #4AA3DF;
+  background-color: $blue;
 }
 .header-text {
   font-size: 30px;
