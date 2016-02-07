@@ -41,7 +41,7 @@ class SearchBar extends Component {
           value={this.state.term}
            />
         <span className="input-group-btn">
-          <button type="submit" className="btn btn-secondary">Submit</button>
+          <button type="submit" className="btn btn-secondary">Search</button>
         </span>
       </form>
     );
